@@ -1,9 +1,13 @@
-html {
-  font-size: 10px;
-}
+@import "abstract/constants";
 
-body {
-  background-color: greenyellow;
-  font-size: 1.6rem;
-  font-family: "Open Sans", Verdana, sans-serif;
-}
+// base
+@import "base/base";
+@import "base/buttons";
+
+// layouts
+@import "layouts/wrapper";
+@import "layouts/header";
+
+// components
+@import "components/contacs-us";
+@import "components/promo";
