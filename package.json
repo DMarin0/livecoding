@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DMarin0/livecoding/issues"
   },
-  "homepage": "https://github.com/DMarin0/livecoding#readme"
+  "homepage": "https://github.com/DMarin0/livecoding#readme",
+  "dependencies": {
+    "normalize.scss": "^0.1.0"
+  }
 }
