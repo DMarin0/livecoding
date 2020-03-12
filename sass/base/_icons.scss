@@ -10,15 +10,19 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
+
   &_yellow {
     background-color: $color-yellow;
   }
+
   &_red {
     background-color: $color-red;
   }
+
   &_blue {
     background-color: $color-blue;
   }
+
   &_violet {
     background-color: $color-violet;
   }
@@ -31,6 +35,7 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
+
   &_white {
     background-color: $color-light;
   }
